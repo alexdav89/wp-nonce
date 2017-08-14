@@ -2,6 +2,7 @@ Description
 -----------
 
 Just a test wordpress nonce to check against CSRF or accidental submitting same data.
+It is just one  class, could be more object oriented with interfaces and abstraction in future.
 
 Installation
 ---------
